@@ -1,0 +1,51 @@
+﻿M1 - 2 - EJERCICIOS HTML
+Introducción HTML
+
+1. Crea una página web que tenga un título y un párrafo.
+
+2. Crea una página web que tenga un título principal 
+y un subtítulo con un párrafo en el que tres palabras 
+aparecen marcadas en negrita y otro subtítulo con dos párrafos en 
+el que cuatro palabras aparecen marcadas en cursiva.
+
+3. Crea una página con un título, 
+un párrafo y otro título seguido de un enlace a google y otro a la página que queráis.
+
+
+4. Crea dos páginas, cada una con un título y un párrafo. 
+En el párrafo añadir un enlace a la otra página.
+
+
+5. Crea una página con un título, u
+n párrafo y dos imágenes. Una de las imágenes deberá estar 
+descargada en una carpeta dentro de donde tenemos la página y la otra deberá ser de internet.
+
+
+6. Crea una página con dos listas 
+(una ordenada y otra no ordenada) con al menos tres elementos cada una.
+
+
+7. Crea una página que tenga una lista de enlaces.
+
+
+8. Crea una página con una lista de cuatro elementos, 
+cada uno de los elementos será una imagen (las dos primeras imágenes 
+en la misma carpeta y las dos últimas imágenes que están en internet).
+
+
+9. Crea una página con una lista de cuatro elementos, 
+ada uno de los elementos será una imagen (las dos primeras imágenes en la misma carpeta 
+y las dos últimas imágenes que están en internet). 
+///Al hacer clic en cada una de las imágenes, nos llevará a una página web diferente.///
+
+
+10. Crea una página que tenga en la cabecera una lista de 3 enlaces. 
+En el contenido pon un título, dos párrafos y una imagen 
+(que el espacio que ocupe el contenido permita hacer scroll hacia abajo. 
+Podéis añadir más párrafos si queréis). Y en el pie de página un párrafo y 
+un enlace al inicio de la página. Pon cada sección (la cabecera, el contenido y 
+el pie de página) dentro de una separación.
+
+
+11. Crea dos páginas enlazadas entre sí. Tienen que compartir 
+cabecera y pie de página. Pero que el contenido sea distinto entre las 2.
